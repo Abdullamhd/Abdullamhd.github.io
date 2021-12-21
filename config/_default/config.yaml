@@ -1,7 +1,6 @@
-baseURL: https://www.vemu.io
+baseURL: http://www.vemu.io
 languageCode: en-us
-title: Vemu IO
-author:
-  twitter: "https://twitter.com/alhadramix86"
-  location: Ras Al Khaimah
+title: Vemu
+theme: Eclectic
+enableEmoji: true
 
