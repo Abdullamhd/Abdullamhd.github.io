@@ -1,6 +1,7 @@
 color: "#4f46e5"
 copyright: "Copyright &copy; 2021 Acme Corporation. All Rights Reserved."
 footer:
+  - menue: true 
   - title: About
     content: >
         Acme Corporation is the world's leading 

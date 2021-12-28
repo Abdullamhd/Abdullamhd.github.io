@@ -1,10 +1,10 @@
 ---
 menu:
     main:
-        name: Blog
-        identifier: blog
+        name: News
+        identifier: news
         weight: 1.1
     footer:
-        name: blog
+        name: news
         weight: 1
 ---
