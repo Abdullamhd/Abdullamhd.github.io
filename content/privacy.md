@@ -1,4 +1,15 @@
-Privacy Policy
+---
+
+menu:
+    footer:
+        name: Privacy Policy 
+        weight: 3
+
+---
+
+
+
+Privacy Policy 
 ==============
 
 Last updated **August 19, 2019**
