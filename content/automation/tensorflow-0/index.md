@@ -1,6 +1,19 @@
-How Tensorflow works 
-==============
+---
 
+title: "How tensorflow works "
+description: "this is how Tensorflow page works very well "  
+keywords: 
+    - AI 
+    - Machine Learning
+    - Data
+draft: false 
+
+---
+
+
+
+
+This is first info about the function 
 
 ```javascript
 
