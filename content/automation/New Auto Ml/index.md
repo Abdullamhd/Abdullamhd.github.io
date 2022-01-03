@@ -1,11 +1,12 @@
 ---
 
-title: "How tensorflow works "
-description: "this is how Tensorflow page works very well "  
+title: "This is how new Auto ML work "
+description: "A tutorial for how AutoML wis work "  
 keywords: 
     - AI 
     - Machine Learning
     - Data
+    - AutML
 draft: false 
 
 ---
