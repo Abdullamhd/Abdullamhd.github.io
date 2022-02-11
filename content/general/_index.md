@@ -1,10 +1,10 @@
 ---
 menu:
     main:
-        name: News
-        identifier: news
+        name: General
+        identifier: general
         weight: 1.1
     footer:
-        name: news
+        name: general
         weight: 1
 ---
