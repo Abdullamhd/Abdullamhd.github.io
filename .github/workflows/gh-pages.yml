@@ -25,6 +25,8 @@ jobs:
 
       - name: Build
         run:  hugo --minify --baseURL=https://www.vemu.io
+      - name: Create CNAME
+        run: echo "www.vemu.io" > CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
