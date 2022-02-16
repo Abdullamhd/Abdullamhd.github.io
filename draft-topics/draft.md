@@ -22,3 +22,13 @@ Draft topics to write
 - Backup the databases 
 - Restore The Databases 
 
+## Scan the codebase and configuration using open source Trivy tool . 
+- Installing the tool in the server 
+- scan the configuration files 
+- scan Container Images 
+- Scan Git repositories 
+- Scan images from custom registery 
+
+
+
+
